@@ -1,0 +1,23 @@
+p {
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+#daftar-siswa {
+    background-color: rgb(124, 124, 124);
+}
+
+
+.siswa {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ #daftar-siswa :hover {
+    background-color : #5f6470;
+}

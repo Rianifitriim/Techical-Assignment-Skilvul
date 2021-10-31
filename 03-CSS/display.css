@@ -1,0 +1,24 @@
+.container {
+    display: inline;
+    background-color: #B5DEFF;
+    padding: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container a {
+    text-decoration: none;
+    color: black;
+}
+.container :hover {
+    background-color: gainsboro;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
