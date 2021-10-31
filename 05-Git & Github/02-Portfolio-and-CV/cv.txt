@@ -1,0 +1,4 @@
+"Ini adalah file CV"
+nama perusahan 1 :shopee
+nama perusahan 2 :gojek
+nama perusahan 3 :google
